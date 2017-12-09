@@ -80,7 +80,6 @@ void solve(char c, char cc)
 
 int main()
 {
-    
     cin >> n >> k >> a >> b;
     
     if(a > b)

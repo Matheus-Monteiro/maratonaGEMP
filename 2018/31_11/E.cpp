@@ -25,7 +25,6 @@ vector<ii> v;
 int main()
 {
     int p, s, caso = 1;    
-    
     while(cin >> p >> s and (p or s))
     {
         REP(i, s)

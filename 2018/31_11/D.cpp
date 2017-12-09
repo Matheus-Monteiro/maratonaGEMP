@@ -10,7 +10,6 @@ typedef pair<int, ii> iii;
 int main()
 {
 	int a, b, c;
-	
 	cin >> a >> b >> c;
 	cout << max(a, max(b, c)) << " eh o maior\n";
 

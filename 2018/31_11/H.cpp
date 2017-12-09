@@ -8,10 +8,9 @@ typedef long long ll;
 typedef pair<int, int> ii;
 typedef pair<int, ii> iii;
 
-ll n;
-
 int main()
 {
+    ll n;
 	while(cin >> n and n)
 	{
 		ll ans = 0;

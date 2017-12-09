@@ -18,6 +18,5 @@ int main()
 		cout << "Sao Multiplos\n";
 	else
 		cout << "Nao sao Multiplos\n";
-
 	return 0;
 }
